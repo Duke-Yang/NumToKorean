@@ -1,9 +1,0 @@
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\bin\Debug\NumToKorean.exe.config
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\bin\Debug\NumToKorean.exe
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\bin\Debug\NumToKorean.pdb
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\obj\Debug\NumToKorean.csprojResolveAssemblyReference.cache
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\obj\Debug\NumToKorean.Form1.resources
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\obj\Debug\NumToKorean.Properties.Resources.resources
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\obj\Debug\NumToKorean.csproj.GenerateResource.Cache
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\obj\Debug\NumToKorean.exe
-c:\users\yangd\onedrive\문서\visual studio 2015\Projects\NumToKorean\NumToKorean\obj\Debug\NumToKorean.pdb
